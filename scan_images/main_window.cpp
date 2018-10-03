@@ -5,8 +5,7 @@
 #include <QDir>
 #include <QDirIterator>
 #include <QFileDialog>
-#include <QThread>
-#include <QtConcurrent/QtConcurrent>
+#include <QDebug>
 #include <QMessageBox>
 
 

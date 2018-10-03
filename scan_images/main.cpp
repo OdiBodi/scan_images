@@ -12,8 +12,12 @@
 
 */
 
+
 #include "main_window.h"
+
 #include <QApplication>
+#include <QPixmapCache>
+
 
 int main(int argc, char *argv[])
 {

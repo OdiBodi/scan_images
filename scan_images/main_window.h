@@ -2,15 +2,6 @@
 #define MAIN_WINDOW_H
 
 #include <QMainWindow>
-#include <QStringListModel>
-#include <QStandardItemModel>
-#include <QDebug>
-#include <QStyledItemDelegate>
-#include <QPainter>
-#include <QPixmapCache>
-#include <QListView>
-#include <QThreadPool>
-#include <QMutex>
 
 
 namespace Ui
